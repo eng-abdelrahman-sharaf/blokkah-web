@@ -5,9 +5,13 @@ Welcome to **Blokkah**, a platform designed to help users easily find the best p
 ## 📸 Screenshots
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
+    <div style="font-size: 24px; font-weight: bold; text-align: center; margin-bottom: 20px;">
     LightHouse Report
+    </div>
     <img src="./screenshots/Lighthouse.jpeg" width="100%" />
-    Web App Screenshots
+    <div style="font-size: 24px; font-weight: bold; text-align: center; margin-bottom: 20px;">
+        Web App Screenshots
+    </div>
     <img src="./screenshots/Login - choose method.png" width="100%" />
     <img src="./screenshots/Login - phone number.png" width="100%" />
     <img src="./screenshots/Login - otp.png" width="100%" />
