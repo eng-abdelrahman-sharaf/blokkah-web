@@ -61,4 +61,4 @@ As the web developer, I implemented the UI/UX designs, ensuring a smooth, respon
 Feel free to reach out to me for any feedback or collaboration:
 
 -   **Email**: eng.abdelrahman.sharaf@gmail.com
--   **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/eng-abdelrahman-sharaf/)
+-   **LinkedIn**: [Abdelrahman Sharaf](https://linkedin.com/in/eng-abdelrahman-sharaf/)
