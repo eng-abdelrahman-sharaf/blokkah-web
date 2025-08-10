@@ -49,8 +49,9 @@ Welcome to **Blokkah**, a platform designed to help users easily find the best p
 
 ## 🛠 Tech Stack
 
--   **Framework**: [Next.js]
--   **UI**: [Tailwind CSS]
+-   **Framework**: Next.js
+-   **langugae**: TypeSript
+-   **UI**: TailwindCSS, Radix UI
 
 ## 👨‍💻 My Role
 
